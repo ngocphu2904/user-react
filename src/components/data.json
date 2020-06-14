@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Trần Phú",
+        "tel": "03526323",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Trần A",
+        "tel": "12412414",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Nguyễn B",
+        "tel": "4161436413",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Lê Lai",
+        "tel": "31346743",
+        "permission": 2
+    },
+    {
+        "id": 5,
+        "name": "Ngọc Hân",
+        "tel": "79841321",
+        "permission": 1
+    }
+]
